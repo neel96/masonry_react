@@ -1,7 +1,7 @@
 import './demo.png';
 
 const data = {
-    
+
         colors: [
           {
             "color": "black",
@@ -76,7 +76,7 @@ const data = {
           {
             "color": "red",
             "category": "hue",
-            "src":"./demo.png","type": "primary",
+            "src":"https://avatars3.githubusercontent.com/u/17050077?s=400&v=4","type": "primary",
             "code": {
               "rgba": [255,0,0,1],
               "hex": "#FF0"
@@ -1063,9 +1063,9 @@ const data = {
               "hex": "#0F0"
             }
           },
-            
+
         ]
-     
+
 }
 
 export default data;
